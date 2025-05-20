@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @itguykanti
+- 👀 I’m am a Software Engineer
+- 🌱 I’m develop and support IT applications, I love getting my hands dirty with emerging technolgies
+- 📫 Visit my website itguy.dev for more info and to reach me
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I come from IT days when there was no seggration of Front End/Backend/Full Stack Engineers, hence I just call myself an IT guy who loves doing everything IT

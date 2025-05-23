@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itguykanti
-- 👀 I’m am a Software Engineer
-- 🌱 I’m develop and support IT applications, I love getting my hands dirty with emerging technolgies
-- 📫 Visit my website itguy.dev for more info and to reach me
+- 👋 Hi, I’m Soumya Kanti Ghosh
+- 👀 I’m am a Software Engineer, I love collabot=rating with Clients/Businesses to understand their pain points and ease them with IT solutions
+- 🌱 I love developing and supporting IT applications end to end, I love getting my hands dirty with emerging technolgies
+- 📫 Visit my website https://itguy.dev for more info and to reach me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I come from IT days when there was no seggration of Front End/Backend/Full Stack Engineers, hence I just call myself an IT guy who loves doing everything IT
+- ⚡ Fun fact: I come from mid era of IT days when there was no seggration of Front End/Backend/Full Stack Software Engineers, hence I just call myself an IT guy who loves doing everything IT
